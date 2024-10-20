@@ -1,6 +1,6 @@
 # Manipulación del DOM y Asincronismo en JavaScript
 
-Este proyecto presenta ejemplos básicos de **manipulación del DOM** y **asincronismo en JavaScript**, que se aplican en sitios web como Amazon para mejorar la experiencia del usuario. A continuación, se explican cada uno de los ejemplos implementados en el archivo `script.js`.
+Este proyecto presenta ejemplos básicos de **manipulación del DOM** y **asincronismo en JavaScript**, que se aplican en sitios web como Amazon para mejorar la experiencia del usuario. A continuación, se explican cada uno de los ejemplos implementados en el archivo `sin.js`.
 
 ## Contenidos
 
