@@ -1,0 +1,59 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para los botones */
+button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 10px 0;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e68a00;
+}
+
+/* Estilos para los mensajes y resultados */
+p, div {
+    font-size: 18px;
+    color: #333;
+    margin: 20px 0;
+}
+
+/* Estilo para el mensaje de compra */
+#status-message {
+    font-weight: bold;
+    color: green;
+}
+
+#message {
+    font-weight: bold;
+    color: #28a745;
+}
+
+/* Estilos para el div de productos */
+#products, #product-results {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Centrar los elementos */
+button, p, div {
+    text-align: center;
+}
